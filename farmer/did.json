@@ -11,7 +11,7 @@
       "id": "did:web:durga0417.github.io:dev:farmer#key-0",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:durga0417.github.io:dev:farmer",
-      "publicKeyMultibase": "z6MksZdNVr1TiS4C2pbzqkmWRajuUmYBVkrnVj4hAFsn8qSP"
+      "publicKeyMultibase": "z6MkpAz9oYGXGf4BE1Y94fieAHBqnkNs7LT5VYYM4dBtKeWy"
     }
   ],
   "authentication": [
