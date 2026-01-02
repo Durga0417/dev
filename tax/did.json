@@ -10,7 +10,7 @@
       "id": "did:web:durga0417.github.io:dev:tax#key-0",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:durga0417.github.io:dev:tax",
-      "publicKeyMultibase": "z6MkvfnSLFB41khQTDnVAtzCwYfSDnXLUTxiR7H5xwrWqKxx"
+      "publicKeyMultibase": "z6MkfKBTeCYUJKKzcomE4dn7gR6FctFGdV5m2TXjy4WruSAb"
     }
   ],
   "authentication": [
